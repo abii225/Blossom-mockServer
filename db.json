@@ -5,7 +5,7 @@
             "name": "English",
             "title": "Mastering English: Your Path to Fluency",
             "description": "Unlock the world with our comprehensive English learning program. From beginner to advanced, our courses cater to learners of all levels. Immerse yourself in interactive lessons, covering grammar, vocabulary, speaking, and listening skills. Engage in real-life conversations with native speakers through our language exchange program. Our experienced instructors will guide you every step of the way, ensuring your rapid progress towards fluency. Embrace cultural diversity and gain confidence in one of the most widely spoken languages globally. Whether for travel, education, or career opportunities, learning English opens doors to endless possibilities. Start your journey today and experience the power of communication.",
-            "images": [],
+            "images": ["https://img.freepik.com/free-vector/english-teacher-concept-illustration_114360-7477.jpg?w=1060&t=st=1689809048~exp=1689809648~hmac=0a8adf2eab14fc03b9a1d5b87a3f4bae509ea11a03c6edc1f0d6008bacc97c8c"],
             "videos": ["https://player.vimeo.com/video/463608516?h=3be8a3f48a"],
             "content": 4
         },
@@ -14,7 +14,7 @@
             "name": "French",
             "title": "Bonjour! Embrace French: Your Journey to Fluency",
             "description": "Discover the beauty of the French language and culture through our immersive learning program. Whether you're a beginner or advanced learner, our courses are tailored to meet your needs. Dive into interactive lessons covering grammar, vocabulary, speaking, and listening skills. Engage in lively conversations with native speakers and practice your language skills with confidence. Our expert instructors will accompany you on your language journey, ensuring you progress towards fluency. Embrace the rich cultural heritage of France and unlock exciting opportunities for travel, study, and career growth. Begin your French adventure today!",
-            "images": [],
+            "images": ["https://img.freepik.com/free-photo/learn-french-language-online-education-concept_53876-133943.jpg?w=1060&t=st=1689809095~exp=1689809695~hmac=b1c7a4027869fdf265fdc6fc5a54d9caee41120f321fb8dc46536ca14a0da416"],
             "videos": ["https://player.vimeo.com/video/418999984?h=309bc7fbb8"],
             "content": 4
         },
@@ -23,7 +23,7 @@
             "name": "Spanish",
             "title": "¡Hola! Unlocking Spanish: Your Pathway to Proficiency",
             "description": "Embark on a thrilling Spanish learning experience with our comprehensive program. Designed for learners of all levels, our interactive courses cover grammar, vocabulary, speaking, and listening skills. Engage in real-world conversations with native speakers and gain valuable cultural insights. Our dedicated instructors will support you every step of the way, ensuring rapid progress towards fluency. Embrace the vibrancy of Spanish-speaking countries and enhance your communication skills for travel, business, and personal connections. Begin your Spanish journey today and open doors to a whole new world of possibilities.",
-            "images": [],
+            "images": ["https://img.freepik.com/free-photo/learn-spanish-language-online-education-concept_53876-132596.jpg?w=826&t=st=1689809153~exp=1689809753~hmac=2085518b73990c19208f1af780711f6052f2ea9041cc6150e0f3b1de6da89bae"],
             "videos": ["https://player.vimeo.com/video/418705684?h=a8b05e7e68&title=0"],
             "content": 4
         },
@@ -32,7 +32,7 @@
             "name": "German",
             "title": "Guten Tag! Mastering German: Your Gateway to Proficiency",
             "description": "Immerse yourself in the fascinating world of German language and culture with our comprehensive program. Whether you're a beginner or advanced learner, our courses cater to all proficiency levels. Dive into interactive lessons that cover grammar, vocabulary, speaking, and listening skills. Engage in authentic conversations with native speakers and boost your language proficiency. Our experienced instructors will guide you through your learning journey, ensuring rapid progress and fluency. Embrace the rich history of Germany and discover exciting opportunities for travel, work, and academic pursuits. Start your German learning adventure today!",
-            "images": [],
+            "images": ["https://img.freepik.com/free-photo/learn-german-language-online-education-concept_53876-133891.jpg?w=826&t=st=1689809346~exp=1689809946~hmac=5fcd096ef829d47fa1fcdb631903d4c6abaf1ae7d0c701046f80e3fcfdc788fd"],
             "videos": ["https://player.vimeo.com/video/430429990?h=b30d8d8fa8"],
             "content": 4
         },
@@ -41,7 +41,7 @@
             "name": "Mandarin Chinese",
             "title": "你好! Embracing Mandarin: Your Journey to Chinese Fluency",
             "description": "Embark on a captivating journey to master Mandarin Chinese, one of the world's most widely spoken languages. Our dynamic program caters to learners of all levels, from beginners to advanced. Immerse yourself in interactive lessons covering grammar, vocabulary, speaking, and listening skills. Engage in real-life conversations with native speakers to enhance your language proficiency. Our expert instructors will guide you through your learning process, ensuring rapid progress and fluency. Embrace the rich cultural heritage of China and unlock incredible opportunities for travel, business, and personal growth. Start your Mandarin adventure today!",
-            "images": [],
+            "images": ["https://img.freepik.com/free-vector/learning-chinese-concept-illustration_114360-16499.jpg?w=740&t=st=1689809612~exp=1689810212~hmac=35ff48f5ed6551aeaf2b52a6c2e3cc520a451e321cf62f7660ce29609a2d15c2"],
             "videos": ["https://player.vimeo.com/video/456740899?h=adeb017197&title=0"],
             "content": 4
         },
@@ -50,7 +50,7 @@
             "name": "Japanese",
             "title": "こんにちは! Discovering Japanese: Your Path to Proficiency",
             "description": "Embark on an enchanting journey to learn Japanese, the language of tradition and innovation. Our program caters to learners of all levels, providing interactive lessons on grammar, vocabulary, speaking, and listening skills. Engage in authentic conversations with native speakers and immerse yourself in the fascinating culture of Japan. Our experienced instructors will accompany you on your language learning adventure, ensuring rapid progress towards fluency. Embrace the beauty of Japan's rich heritage and open doors to exciting travel, study, and career opportunities. Start your Japanese learning journey today!",
-            "images": [],
+            "images": ["https://img.freepik.com/free-photo/close-up-pupils-doing-japanese-calligraphy-called-shodo_23-2149105361.jpg?w=1060&t=st=1689809703~exp=1689810303~hmac=1f4ece3261d5c9c0dd1f13d44f2dbdb72e69d763827736b2deab0ed8d80e19bb"],
             "videos": ["https://player.vimeo.com/video/408098252?h=18469fa844&title=0"],
             "content": 4
         }
