@@ -6,7 +6,7 @@
             "title": "Mastering English: Your Path to Fluency",
             "description": "Unlock the world with our comprehensive English learning program. From beginner to advanced, our courses cater to learners of all levels. Immerse yourself in interactive lessons, covering grammar, vocabulary, speaking, and listening skills. Engage in real-life conversations with native speakers through our language exchange program. Our experienced instructors will guide you every step of the way, ensuring your rapid progress towards fluency. Embrace cultural diversity and gain confidence in one of the most widely spoken languages globally. Whether for travel, education, or career opportunities, learning English opens doors to endless possibilities. Start your journey today and experience the power of communication.",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/463608516?h=3be8a3f48a"],
             "content": 4
         },
         {
@@ -15,7 +15,7 @@
             "title": "Bonjour! Embrace French: Your Journey to Fluency",
             "description": "Discover the beauty of the French language and culture through our immersive learning program. Whether you're a beginner or advanced learner, our courses are tailored to meet your needs. Dive into interactive lessons covering grammar, vocabulary, speaking, and listening skills. Engage in lively conversations with native speakers and practice your language skills with confidence. Our expert instructors will accompany you on your language journey, ensuring you progress towards fluency. Embrace the rich cultural heritage of France and unlock exciting opportunities for travel, study, and career growth. Begin your French adventure today!",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/418999984?h=309bc7fbb8"],
             "content": 4
         },
         {
@@ -24,7 +24,7 @@
             "title": "¡Hola! Unlocking Spanish: Your Pathway to Proficiency",
             "description": "Embark on a thrilling Spanish learning experience with our comprehensive program. Designed for learners of all levels, our interactive courses cover grammar, vocabulary, speaking, and listening skills. Engage in real-world conversations with native speakers and gain valuable cultural insights. Our dedicated instructors will support you every step of the way, ensuring rapid progress towards fluency. Embrace the vibrancy of Spanish-speaking countries and enhance your communication skills for travel, business, and personal connections. Begin your Spanish journey today and open doors to a whole new world of possibilities.",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/418705684?h=a8b05e7e68&title=0"],
             "content": 4
         },
         {
@@ -33,7 +33,7 @@
             "title": "Guten Tag! Mastering German: Your Gateway to Proficiency",
             "description": "Immerse yourself in the fascinating world of German language and culture with our comprehensive program. Whether you're a beginner or advanced learner, our courses cater to all proficiency levels. Dive into interactive lessons that cover grammar, vocabulary, speaking, and listening skills. Engage in authentic conversations with native speakers and boost your language proficiency. Our experienced instructors will guide you through your learning journey, ensuring rapid progress and fluency. Embrace the rich history of Germany and discover exciting opportunities for travel, work, and academic pursuits. Start your German learning adventure today!",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/430429990?h=b30d8d8fa8"],
             "content": 4
         },
         {
@@ -42,7 +42,7 @@
             "title": "你好! Embracing Mandarin: Your Journey to Chinese Fluency",
             "description": "Embark on a captivating journey to master Mandarin Chinese, one of the world's most widely spoken languages. Our dynamic program caters to learners of all levels, from beginners to advanced. Immerse yourself in interactive lessons covering grammar, vocabulary, speaking, and listening skills. Engage in real-life conversations with native speakers to enhance your language proficiency. Our expert instructors will guide you through your learning process, ensuring rapid progress and fluency. Embrace the rich cultural heritage of China and unlock incredible opportunities for travel, business, and personal growth. Start your Mandarin adventure today!",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/456740899?h=adeb017197&title=0"],
             "content": 4
         },
         {
@@ -51,7 +51,7 @@
             "title": "こんにちは! Discovering Japanese: Your Path to Proficiency",
             "description": "Embark on an enchanting journey to learn Japanese, the language of tradition and innovation. Our program caters to learners of all levels, providing interactive lessons on grammar, vocabulary, speaking, and listening skills. Engage in authentic conversations with native speakers and immerse yourself in the fascinating culture of Japan. Our experienced instructors will accompany you on your language learning adventure, ensuring rapid progress towards fluency. Embrace the beauty of Japan's rich heritage and open doors to exciting travel, study, and career opportunities. Start your Japanese learning journey today!",
             "images": [],
-            "videos": [],
+            "videos": ["https://player.vimeo.com/video/408098252?h=18469fa844&title=0"],
             "content": 4
         }
     ],
