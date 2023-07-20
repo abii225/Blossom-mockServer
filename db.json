@@ -9,7 +9,14 @@
             "videos": ["https://player.vimeo.com/video/463608516?h=3be8a3f48a"],
             "content": 4,
             "price":799,
-            "rating":4
+            "rating":4,
+            "milestones":["Learn everything about English grammar, English speaking, and English writing.",
+         "Get high scores for English grammar exams like A1, A2, B1, B2, C1, TOEFL, IELTS, and TOEIC.",
+        "Accent Training: Build an American or British accent.",
+        "Use perfect English grammar in real conversations.",
+        "Upgrade your speaking, listening, and writing with better English grammar.",
+        "Master English writing with English punctuation and sentence structure section.",
+        "Professional English pronunciation practice activities."]
         },
         {
             "id": 2,
@@ -20,7 +27,14 @@
             "videos": ["https://player.vimeo.com/video/418999984?h=309bc7fbb8"],
             "content": 4,
             "price":499,
-            "rating":3
+            "rating":3,
+            "milestones":["250+ vocabulary words",
+        "Top most useful phrases you can use in everyday situations",
+          "How to put basic sentences together",
+          "Proper French pronunciation",
+        "How to read and write in French",
+         "Greet people and introduce yourself both formally and casually",
+        "The building blocks of French grammar"]
         },
         {
             "id": 3,
@@ -31,7 +45,14 @@
             "videos": ["https://player.vimeo.com/video/418705684?h=a8b05e7e68&title=0"],
             "content": 4,
             "price":999,
-            "rating":5
+            "rating":5,
+            "milestones":["1000+ most useful vocabulary words",
+            "Proper Spanish pronunciation",
+             "Read and write in Spanish",
+             "The building blocks of Spanish grammar",
+            "Top most useful phrases you can use in everyday situations",
+            "How to put basic sentences together",
+            "Pronounce words correctly without hearing them first"]
         },
         {
             "id": 4,
@@ -42,7 +63,13 @@
             "videos": ["https://player.vimeo.com/video/430429990?h=b30d8d8fa8"],
             "content": 4,
             "price":499,
-            "rating":3
+            "rating":3,
+            "milestones":["500+ most useful vocabulary words",
+                 "Proper German pronunciation",
+                "Read and write in German",
+                 "Pronounce words correctly without hearing them first",
+                "Top most useful phrases you can use in everyday situations",
+            "The building blocks of German grammar","Greet people and introduce yourself both formally and casually"]
         },
         {
             "id": 5,
@@ -53,7 +80,14 @@
             "videos": ["https://player.vimeo.com/video/456740899?h=adeb017197&title=0"],
             "content": 4,
             "price":799,
-            "rating":4
+            "rating":4,
+            "milestones":["Learn common used Chinese language words and sentences",
+                   "Speak Chinese language around your home and at work",
+                  "Read Mandarin Chinese characters (Simplified characters)",
+                "Understand the different tones in Chinese language",
+            "Gain confidence in learning and speaking Chinese",
+            "Understand basic Mandarin Chinese grammar rules",
+            "Understand Chinese characters"]
         },
         {
             "id": 6,
@@ -64,7 +98,16 @@
             "videos": ["https://player.vimeo.com/video/408098252?h=18469fa844&title=0"],
             "content": 4,
             "price":499,
-            "rating":3
+            "rating":3,
+            "milestones":["500+ most useful vocabulary words",
+                "Proper Japanese pronunciation",
+            "Read and write in Japanese",
+        "Pronounce words correctly without hearing them first",
+        "Top most useful phrases you can use in everyday situations",
+        "How to put basic sentences together",
+        "Greet people and introduce yourself both formally and casually",
+        "The building blocks of Japanese grammar"
+    ]
         }
     ],
     "users": []
