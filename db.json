@@ -110,5 +110,13 @@
     ]
         }
     ],
-    "users": []
+    "users": [
+        {
+            "username": "Abhay",
+            "email": "abhayv225@gmail.com",
+            "password": "00000000",
+            "data": [],
+            "id": 1
+            }
+    ]
 }
